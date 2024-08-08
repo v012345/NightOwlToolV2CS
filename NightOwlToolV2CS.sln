@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NightOwlToolV2CS", "NightOwlToolV2CS\NightOwlToolV2CS.csproj", "{0F6C9FA6-4B82-4698-A2CE-3785B575F58E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableConvertor", "NightOwlToolV2CS\TableConvertor.csproj", "{0F6C9FA6-4B82-4698-A2CE-3785B575F58E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
